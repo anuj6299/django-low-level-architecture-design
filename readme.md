@@ -4,10 +4,4 @@ I will add some dummy code too soon for better understanding!
 
 You should follow a herierchy in you project. For ex, urls will only views and views will only call core functions and so on. You can folow below herierchy -
 
-									validate.py
-									helper.py
-urls.py -> views.py -> core.py -> 	interfacer.py
-									tasks.py -> helper.py
-												interfacer.py
-
 Please feel free to add more inputs. Happy coding :) 
